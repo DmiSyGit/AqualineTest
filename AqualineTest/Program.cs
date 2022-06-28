@@ -80,7 +80,7 @@ namespace AqualineTest
 
 
         // Задание 3
-
+        /*
         public virtual void ObnovlenieInformaciiOKontragentahIzDadata(Context context)
         {
             // Генерация строки фильтров для запроса
